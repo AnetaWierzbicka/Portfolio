@@ -6,12 +6,31 @@ My Tester's portfolio
 - PicPick, Sharex, Screenpresso - Screen capture software
 - Jira
 - Trello
-- TestiLink, TestRail -
-- Postman
+- TestiLink, TestRail 
+- Postman 
 - Git, Github 
 # Tech skills
+- Devtools
+- SQL - writing basic queries 
+- Software testing
+- Creating manual test cases
+- Reporting bugs
+- HTML/CSS -basic
+- ISTQB Foundation Leve
 # Courses & Certificates
-# Books & Blogs I read 
+- uTest Academy (uTest)
+- Praktyczny kurs testowania oprogramowania (Udemy)
+- ISTQB ® Certified Tester Foundation Level (SJSI (Polish Testing Board))
+- Akademia Testowania - Manual Tester (testuj.pl)
+- 6-day HTML/CSS Marathon (GoIT)
+- 4-day Qality Assurance Marathon (GoIT)
+# Technical Books & Blogs I read 
+- *Zawód Tester* R. Smilgin
+- *Podróż przez świat testowania* K.Pawłowska, N.Pawlak
+- *ABC testowania oprogramowania* W.Szafraniec, D. Gabor
+- <https://testerzy.pl/>
+- <https://testuj.pl/blog/>
+- <https://remigiuszbednarczyk.pl/>
 # My bug reports 
 # My test plan
 # My test cases
