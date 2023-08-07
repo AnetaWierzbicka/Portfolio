@@ -35,4 +35,6 @@ My Tester's portfolio
 # My test plan
 # My test cases
 # HTML/CSS
+- GoIT HTML/CSS Marathon task.
+  [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
 # SQL 
