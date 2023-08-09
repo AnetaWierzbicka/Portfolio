@@ -33,8 +33,7 @@ My Tester's portfolio
 - <https://remigiuszbednarczyk.pl/>
 # My bug reports 
 - *Akademia Testowania* Course task
-  - Examples of bugs on <https://skleptest.pl/> - website created for educational purposes      
-   [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)     
+  - Examples of bugs on <https://skleptest.pl/> - website created for educational purposes          [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)     
 # My test plan
 # My test cases
 # HTML/CSS
