@@ -33,9 +33,12 @@ My Tester's portfolio
 - <https://remigiuszbednarczyk.pl/>
 # My bug reports 
 - *Akademia Testowania* Course task
-  - Examples of bugs on <https://skleptest.pl/> - the website created for educational purposes <br> [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)     
+  - Bugs report example on <https://skleptest.pl/> - the website created for educational purposes <br> [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)     
 # My test plan
 # My test cases
+- *Akademia Testowania* Course task
+  - Test cases examples on <https://skleptest.pl/> - the website created for educational purposes <br>
+[Link to Google Drive with test cases](https://docs.google.com/spreadsheets/d/1bRcuA1PeXiV3JMPXODWHA5PEKHKbhCM0F10RDUaR2S8/edit#gid=0)
 # HTML/CSS
 - GoIT HTML/CSS Marathon task
    - [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
