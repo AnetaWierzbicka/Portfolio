@@ -33,11 +33,11 @@ My Tester's portfolio
 - <https://remigiuszbednarczyk.pl/>
 # My bug reports 
 - *Akademia Testowania* Course task
-  - Examples of bugs on <https://skleptest.pl/> - website created for educational purposes
+  - Examples of bugs on <https://skleptest.pl/> - website created for educational purposes      
    [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)     
 # My test plan
 # My test cases
 # HTML/CSS
-- GoIT HTML/CSS Marathon task.
+- GoIT HTML/CSS Marathon task
    - [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
 # SQL 
