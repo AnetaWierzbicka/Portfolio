@@ -39,7 +39,10 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 [Link to Google Drive with test cases](https://docs.google.com/spreadsheets/d/1bRcuA1PeXiV3JMPXODWHA5PEKHKbhCM0F10RDUaR2S8/edit#gid=0)
 # My bug reports 
 - *Akademia Testowania* Course task
-  - Bugs report example for <https://skleptest.pl/> - the website created for educational purposes <br> [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)
+  - Bug report example for <https://skleptest.pl/> - the website created for educational purposes <br> [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0)
+- *Akademia Testowania* Extra task
+  - Bug report example for <https://kanbanboard.pl/> <be>
+  [Link to Google Drive with bug report](https://drive.google.com/file/d/11aIz3CLFYjGo_R9Q6HZtQ0tSeXz2VeXQ/view?usp=sharing)
 # Test reports
 - *Akademia Testowania* Extra task
   - TestLink report for [Kanban Board](https://kanbanboard.pl/) <br> [Link to Google Drive with test report](https://drive.google.com/file/d/1n3QPFdJpJOR_AGwbkzHTiCFciO0RZgXm/view?usp=sharing)
