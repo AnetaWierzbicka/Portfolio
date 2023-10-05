@@ -46,6 +46,9 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - *Akademia Testowania* Extra task
   - Bug report example for <https://kanbanboard.pl/> - project management tool <br>
   [Link to Google Drive with bug report](https://drive.google.com/file/d/11aIz3CLFYjGo_R9Q6HZtQ0tSeXz2VeXQ/view?usp=sharing) (MantisBT)
+- GoIT QA Marathon task
+  - Bug report example <br>
+[Link to Google Drive with bug report](https://drive.google.com/file/d/1ddQ0yh4wO9i_Fxax3Oykgsve9vYeIHBL/view?usp=drive_link) (Jira)
 # Test reports
 - *Akademia Testowania* Extra task
   - TestLink report for [Kanban Board](https://kanbanboard.pl/) <br> [Link to Google Drive with test report](https://drive.google.com/file/d/1n3QPFdJpJOR_AGwbkzHTiCFciO0RZgXm/view?usp=sharing) (TestLink)
