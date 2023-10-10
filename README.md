@@ -33,6 +33,9 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - <https://testuj.pl/blog/>
 - <https://remigiuszbednarczyk.pl/>
 # My test plan
+- *Akademia Testowania* Extra task
+ - Test Plan example for <https://skleptest.pl/> - the website created for educational purposes <br>
+[Link to Google Drive with Test Plan](https://docs.google.com/document/d/1cJcXPSkj2zhrsWayPnIi3Exof96vBp3tg1It-BdELww/edit?usp=sharing)
 # My test cases
 - *Akademia Testowania* Course task
   - Test cases examples for <https://skleptest.pl/> - the website created for educational purposes <br>
