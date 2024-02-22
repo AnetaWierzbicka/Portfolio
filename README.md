@@ -43,7 +43,7 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - GoIT QA Marathon task
    - Test cases examples <br>
      [Link to Google Drive with test cases](https://drive.google.com/file/d/1YZw8aTPYqXFFmBrCab1ER0EzHTCMEMdY/view?usp=sharing) (TestRail)
-#🔎 My bug reports 
+# My bug reports 
 - *Akademia Testowania* Course task
   - Bug report example for <https://skleptest.pl/> - the website created for educational purposes <br> [Link to Google Drive with bug report](https://docs.google.com/spreadsheets/d/1TNFiqOTx2JbShKyF6R7EVkMIi591TnxDA24EJQvM1V0/edit#gid=0) (Excel)
 - *Akademia Testowania* Extra task
