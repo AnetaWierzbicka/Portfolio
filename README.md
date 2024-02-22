@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio  🔎
 My Tester's portfolio
 # About me
 My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics with the E-business major. My specialization was E-business Management. I can be described as an analytical thinker led by inquiry and engagement. I gained my first experience in website testing by taking part in the Testing Academy course.  Also, I participated in projects on the crowdtesting platform, where I could practice exploratory testing. As I pursue a career advancement I am looking forward to learning new skills and improving my knowledge. In this portfolio, I would like to share my experience which I have acquired from courses and self-study. 
