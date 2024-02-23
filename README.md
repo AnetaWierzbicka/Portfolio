@@ -57,9 +57,10 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 # Test reports
 - *Akademia Testowania* Extra task
   - TestLink report for [Kanban Board](https://kanbanboard.pl/) <br> [Link to Google Drive with test report](https://drive.google.com/file/d/1n3QPFdJpJOR_AGwbkzHTiCFciO0RZgXm/view?usp=sharing) (TestLink)
+# SQL 
+- GeekOn  *50+ zadań z SQL*
+  - [SQL tasks](https://github.com/AnetaWierzbicka/Portfolio/blob/main/SQLtasks_part1.sql) (SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN)
 # HTML/CSS
 - GoIT HTML/CSS Marathon task
    - [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
-# SQL 
-- GeekOn  *50+ zadań z SQL*
-  - [SQL tasks]() (SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN)
+
