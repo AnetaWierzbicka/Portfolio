@@ -1,5 +1,5 @@
 # Portfolio  
- 🔎 My Tester's portfolio
+ 🔎 Software tester portfolio
 # About me
 My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics with the E-business major. My specialization was E-business Management. I can be described as an analytical thinker led by inquiry and engagement. I gained my first experience in website testing by taking part in the Testing Academy course.  Also, I participated in projects on the crowdtesting platform, where I could practice exploratory testing. As I pursue a career advancement I am looking forward to learning new skills and improving my knowledge. In this portfolio, I would like to share my experience which I have acquired from courses and self-study. 
 
@@ -11,24 +11,26 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - Postman 
 - Git, Github 
 # Tech skills
-- Devtools
-- SQL - writing basic queries 
 - Software testing
+- ISTQB Foundation Level
 - Creating manual test cases
 - Reporting bugs
-- HTML/CSS -basic
-- ISTQB Foundation Level
+- SQL (writing basic queries)
+- HTML/CSS (basic)
+- Devtools (basic)
 # Courses & Certificates
 - uTest Academy (uTest)
-- Praktyczny kurs testowania oprogramowania (Udemy)
-- ISTQB ® Certified Tester Foundation Level (SJSI (Polish Testing Board))
 - Akademia Testowania - Manual Tester (testuj.pl)
+- Praktyczny kurs testowania oprogramowania (Udemy)
+- ISTQB ® Certified Tester Foundation Level (SJSI (Polish Testing Board)
+- Postman od podstaw - testowanie REST API (Udemy)
 - 6-day HTML/CSS Marathon (GoIT)
 - 4-day Quality Assurance Marathon (GoIT)
 # Technical Books & Blogs I read 
 - *Zawód Tester* R. Smilgin
 - *Podróż przez świat testowania* K.Pawłowska, N.Pawlak
 - *ABC testowania oprogramowania* W.Szafraniec, D. Gabor
+- <https://qualityisland.pl/>
 - <https://testerzy.pl/>
 - <https://testuj.pl/blog/>
 - <https://remigiuszbednarczyk.pl/>
@@ -59,3 +61,5 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - GoIT HTML/CSS Marathon task
    - [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
 # SQL 
+- GeekOn  *50+ zadań z SQL*
+  - [SQL tasks]() (SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN)
