@@ -60,6 +60,8 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 # SQL 
 - GeekOn  *50+ zadań z SQL*
   - [SQL tasks](https://github.com/AnetaWierzbicka/Portfolio/blob/main/SQLtasks_part1.sql) (SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN)
+- Czy IT jest dla mnie - testing platform *SQL Sandbox*
+  - [SQL tasks](https://github.com/AnetaWierzbicka/Portfolio/blob/main/SQLtasks_part2.sql) (INSERT, UPDATE, DELETE)
 # HTML/CSS
 - GoIT HTML/CSS Marathon task
    - [My CV](https://64bf855026f9983b45cbcfee--splendid-griffin-ad480d.netlify.app/)
