@@ -9,7 +9,8 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - Trello
 - TestiLink, TestRail, MantisBT
 - Postman 
-- Git, Github 
+- Git, Github
+- - Devtools (basic)
 # Tech skills
 - Software testing
 - ISTQB Foundation Level
@@ -17,7 +18,6 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - Reporting bugs
 - SQL (writing basic queries)
 - HTML/CSS (basic)
-- Devtools (basic)
 # Courses & Certificates
 - uTest Academy (uTest)
 - Akademia Testowania - Manual Tester (testuj.pl)
@@ -26,6 +26,7 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - Postman od podstaw - testowanie REST API (Udemy)
 - 6-day HTML/CSS Marathon (GoIT)
 - 4-day Quality Assurance Marathon (GoIT)
+- Chrome DevTools: Od podstaw do Eksperta (Udemy)
 # Technical Books & Blogs I read 
 - *Zawód Tester* R. Smilgin
 - *Podróż przez świat testowania* K.Pawłowska, N.Pawlak
