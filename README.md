@@ -27,6 +27,7 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - 6-day HTML/CSS Marathon (GoIT)
 - 4-day Quality Assurance Marathon (GoIT)
 - Chrome DevTools: Od podstaw do Eksperta (Udemy)
+- ChatGPT w testowaniu oprogramowania (Udemy)
 # Technical Books & Blogs I read 
 - *Zawód Tester* R. Smilgin
 - *Podróż przez świat testowania* K.Pawłowska, N.Pawlak
