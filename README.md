@@ -10,7 +10,7 @@ My name is Aneta Wierzbicka. I have graduated from Warsaw School of Economics wi
 - TestiLink, TestRail, MantisBT
 - Postman 
 - Git, Github
-- - Devtools (basic)
+-  Devtools (basic)
 # Tech skills
 - Software testing
 - ISTQB Foundation Level
